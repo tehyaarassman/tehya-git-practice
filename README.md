@@ -2,4 +2,4 @@
 
 By Tehya Rassman for Intro to Coding
 
-Repo to learn Git 
+Repo to learn Git.
